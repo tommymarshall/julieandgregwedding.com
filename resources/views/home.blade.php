@@ -32,7 +32,7 @@
         <div class="col">
           <h3>Reception</h3>
           <p class="sub-heading">
-            <strong>Following Mass</strong>
+            <strong>5:00 PM</strong>
           </p>
           <p>
             <strong>Father O’Connell Hall</strong><br>
