@@ -14,9 +14,9 @@ Route::post('rsvp', function (Illuminate\Http\Request $request) {
     });
 
     \Mail::send('emails.rsvp', ['request' => $answers->all()], function ($m) use ($answers) {
-        $m->from('postmaster@julieandgregwedding.com', 'julieandgregwedding.com');
-        $m->to('gregorymitchell7@gmail.com', 'Greg Mitchell');
-        $m->cc('tommyjmarshall@gmail.com', 'Tommy Marshall');
+        $m->from('postmaster@mg.julieandgregwedding.com', 'JulieAndGregWedding.com');
+        $m->to('julieanne.dolan@gmail.com', 'Julie Dolan');
+        $m->cc('gregorymitchell7@gmail.com', 'Greg Mitchell');
         $m->subject($answers->get('name') . ' has RSVPed!');
     });
 
