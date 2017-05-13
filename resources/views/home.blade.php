@@ -50,7 +50,7 @@
     <div class="wrap">
       <h2>Registries</h2>
       <div class="registries-list">
-        <a href="https://www.amazon.com/wedding/registry/3JO89YMBUJ2FW" target="_blank">
+        <a href="https://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?pwsToken=&eventType=Wedding&inventoryCallEnabled=true&registryId=544567258&pwsurl=" target="_blank">
           <img src="/images/bedbath.png" alt="">
         </a>
       </div>
