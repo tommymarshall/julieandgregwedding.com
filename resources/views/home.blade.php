@@ -46,6 +46,32 @@
     </div>
   </section>
 
+  <section class="section -accommodations" id="accommodations">
+    <div class="wrap">
+      <div class="accommodations">
+        <h3>Accommodations</h3>
+        <div class="wrap -thin">
+          <p>A block of rooms has been reserved at the Courtyard Marriott hotel in Silver Spring, Maryland.  Please use the following link if you wish to reserve one or more rooms or to find more information about the hotel.</p>
+          <p><small>Please note that to take advantage of the group rate, reservations must be made by August 3.</small></p>
+        </div>
+        <div class="accommodation">
+          <a href="http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Dolan-Mitchell%20Wedding%5Ewassv%60DMWDMWA%7CDMWDMWB%60109.00%60USD%60false%604%608/18/17%608/20/17%608/3/17&app=resvlink&stop_mobi=yes" class="button">Book a Room</a>
+          <br><br>
+          <p>
+            <strong>The Courtyard<br>by Marriott Silver Spring Downtown</strong><br>
+            8506 Fenton St.<br>
+            Silver Spring, MD 20910<br>
+          </p>
+          <p>
+            <a href="tel:3015894899" class="button">Call Hotel</a>
+            <span class="and-spacer">or</span>
+            <a href="https://www.google.com/maps/dir/''/8506+Fenton+St,+Silver+Spring,+MD+20910/" class="button">View Map</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section class="section -registries" id="registries">
     <div class="wrap">
       <h2>Registries</h2>
